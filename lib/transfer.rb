@@ -33,6 +33,7 @@ class Transfer
   def reverse_order
     if self.status == "complete"
       receiver.balance -= amount
+      sender.balnce 
   end  
   
   
