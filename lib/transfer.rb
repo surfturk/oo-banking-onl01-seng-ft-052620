@@ -31,7 +31,7 @@ class Transfer
   
   
   def reverse_order
-    
+    if self.status =
     
   end  
   
